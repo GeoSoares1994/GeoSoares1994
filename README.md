@@ -27,9 +27,9 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/GeovaneSoares">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GeovaneSoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneSoares&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/GeoSoares1994">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GeoSoares1994&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoSoares1994&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
